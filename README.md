@@ -21,4 +21,16 @@ It was developed as part of a hardware/digital design course project focused on 
 
 ## Project Files
 
-├── processor.v # Top-level module connecting convolution, ReLU, and pooling ├── fsm.v # FSM for operation sequencing ├── main.v # Central control logic ├── max_pool.v # Max pooling implementation ├── ReLU.v # ReLU activation unit ├── mem8_105.v # Example feature map memory module ├── mem8_140.v # Additional memory module ├── mem23_9.v # Additional memory module ├── mem88_11.v # Additional memory module
+```bash
+.
+├── processor.v        # Top-level module connecting convolution, ReLU, and pooling
+├── fsm.v              # FSM for operation sequencing
+├── main.v             # Central control logic
+├── max_pool.v         # Max pooling implementation
+├── ReLU.v             # ReLU activation unit
+├── mem8_105.v         # Example feature map memory module
+├── mem8_140.v         # Additional memory module
+├── mem23_9.v          # Additional memory module
+├── mem88_11.v         # Additional memory module
+├── processor_tb.vt    # Testbench for top-level module
+```
