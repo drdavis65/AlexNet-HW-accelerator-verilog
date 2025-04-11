@@ -57,7 +57,7 @@ This project was developed for **EEC 281: Hardware for Machine Learning** at UC 
 ├── mem8_140.v         # 8-bit, 140-depth memory (4-row pixel storage)
 ├── mem23_9.v          # 23-bit, 9-depth memory for max pool outputs
 ├── mem88_11.v         # 88-bit, 11-depth filter coefficient memory
-├── processor_tb.v     # Testbench for top-level processor module
+└── processor_tb.v     # Testbench for top-level processor module
 ```
 
 ## Technologies Used
