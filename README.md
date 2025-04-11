@@ -42,7 +42,11 @@ This project was developed for **EEC 281: Hardware for Machine Learning** at UC 
 - Synthesized with realistic technology libraries (Nangate 45nm)
 
 ---
+## Pipeline Block Diagram
 
+<img width="754" alt="Screenshot 2025-04-10 at 8 05 30 PM" src="https://github.com/user-attachments/assets/19d5966c-263a-43f6-b607-5869f0596e46" />
+
+---
 ## Project Files
 
 ```bash
