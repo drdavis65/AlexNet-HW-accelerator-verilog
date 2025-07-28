@@ -26,7 +26,7 @@ The design operates on a reduced-size grayscale image (35×35), simulates stream
 - Synthesis performed for multiple cycle targets (e.g., 1 kHz and 10 GHz)
 - Full area reports and critical path timing available
 
-This project was developed for **EEC 281: Hardware for Machine Learning** at UC Davis as a final digital design project.
+This project was developed for **EEC 281: VLSI Digital Signal Processing** at UC Davis as a final digital design project.
 
 ---
 
